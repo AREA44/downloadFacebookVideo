@@ -4,7 +4,7 @@ This article will guide you **How to download any video on Facebook? (including 
 
 ### Step 1.
 
-Install [Custom JavaScript for Websites 2](https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk/related?hl=vi)
+Install [Custom JavaScript for Websites 2](https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk/related?hl=vi).
 
 ### Step 2.
 Open **Custom JavaScript for Websites 2** extension and add this script:
@@ -128,8 +128,6 @@ return output;
  
  ### Step 3.
  Press **F12** and call **downloadFacebookVideo()** function.
- 
- ![image](https://user-images.githubusercontent.com/27698189/110150658-14e51280-7e12-11eb-9d41-2c932ebf8ecb.png)
- 
+  
  ## Refering
- [1](https://httzip.com/bai-viet/huong-dan-tai-bat-cu-video-nao-tren-facebook?fbclid=IwAR2tMf1NXtaCnMswm-gtFj4M8F7LmrCCpF7GcOMzSkwnm3mACZxnA4KHH3k)
+ 1. [Hướng dẫn tải bất cứ video nào trên FaceBook](https://httzip.com/bai-viet/huong-dan-tai-bat-cu-video-nao-tren-facebook?fbclid=IwAR2tMf1NXtaCnMswm-gtFj4M8F7LmrCCpF7GcOMzSkwnm3mACZxnA4KHH3k).
